@@ -9,3 +9,5 @@ Your company wants you to create a Report application where it can be used to ge
 # Solution
 
 As a professional developer, it always good to build your solution base on some existing Java design patterns. For this particular use case, Factory pattern is a perfect design pattern to be applied. I use Astah (a UML tool) to create the UML diagram to solve this specific problem. 
+
+https://github.com/johnnguyenfamily/FactoryDesignPattern/blob/master/images/FactoryPatternUML.png
