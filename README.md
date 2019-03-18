@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/johnnguyenfamily/johnnguyenfamily/_apis/build/status/johnnguyenfamily.FactoryDesignPattern?branchName=master)](https://dev.azure.com/johnnguyenfamily/johnnguyenfamily/_build/latest?definitionId=3&branchName=master)
+
 # Factory Pattern
 
 In this sample code, I'll demonstrate how to use the Factory pattern, which is one of the most used design patterns in Java. The objective of the Factory pattern is to create object without exposing the creation logic to the client and refer to newly created object using a common interface.
